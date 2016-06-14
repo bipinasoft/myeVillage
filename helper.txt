@@ -1,0 +1,4 @@
+http://blog.teamtreehouse.com/using-github-pages-to-host-your-website
+https://github.com/website-templates/design-studio_one-page-template
+https://github.com/website-templates
+https://azure.microsoft.com/en-in/documentation/articles/web-sites-deploy/
